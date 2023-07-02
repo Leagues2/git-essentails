@@ -1,4 +1,4 @@
-# git-essentails 1
+# git-essentails
 Learning git essentails so i dont get screwed later <3
 
 ## Heading1
