@@ -1,11 +1,3 @@
-# git-essentails
-Learning git essentails so i dont get screwed later <3
+# git-essentail
 
-## Heading1
-Whatever bro come and suck me
-
-## Heading3
-Fuck the heading.
-
-### Heading2
-
+New stuff in here
