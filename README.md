@@ -1,3 +1,3 @@
-# git-essentail
+# Git ESSENTIALS 
 
-New stuff in here
+ updated this readme file to test pull requests.
